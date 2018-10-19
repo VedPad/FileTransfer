@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="ShootEmUpGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\enemyAI.cs">
+    <Files>
+      <File FileName="Assets\enemyAI.cs" Line="164" Column="120" />
+      <File FileName="Assets\SpaceShipMoveMent.cs" Line="367" Column="40" />
+      <File FileName="Assets\SpawnScriptTest.cs" Line="24" Column="54" />
+      <File FileName="Assets\HomingMissiles.cs" Line="1" Column="1" />
+      <File FileName="Assets\enemyTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\shockWaveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\checkZoomCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\TimePower.cs" Line="1" Column="1" />
+      <File FileName="Assets\LandMineScript.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
